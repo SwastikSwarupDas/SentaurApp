@@ -16,32 +16,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -54,5 +28,13 @@ Messaging or chat applications have become an important part of our daily lives.
 Analysis the texts and assigning a sentiment score to each text will help users understand the tone of the conversation and will help them convey their messages more effectively.
 
 The MERN stack which is used to develop this application is ideal for building modern web applications, Socket.io is used for real time, bidirectional communication between the users, while Python libraries such as NLTK can provide useful tools for performing sentiment analysis on texts. The integration of these technologies provides a comprehensive solution for developing a chat application with sentiment analysis.
+
+# Screenshots
+## Dialogue Box 
+A beautifully semi transparent Dialogue Box
+![screenshot](docs/screenshots/DialogueBox.png)
+## Floating Window
+Material Design Inspired UI
+![screenshot](docs/screenshots/FloatingWindow.png)
 
 
