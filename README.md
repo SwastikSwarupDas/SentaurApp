@@ -45,17 +45,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- ![Screenshot](MainChatScreen.png)
+ ![screenshot](docs/screenshots/MainChatScreen.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Sentaur is a web-based application that will be used by people interested in using sentiment analysis to determine motivations and purpose of chat participants. The application will be most useful for the deployment of advertisement personalization within applications with real-time analysis of sentiments and user-needs.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Messaging or chat applications have become an important part of our daily lives. But there is still a need for additional features and functionalities. This project aims to fill this gap by providing a chat application along with sentiment analysis to provide users with information about emotions conveyed in their messages. The chat application that we have developed has been named “Sentaur”.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Analysis the texts and assigning a sentiment score to each text will help users understand the tone of the conversation and will help them convey their messages more effectively.
 
-Use the `BLANK_README.md` to get started.
+The MERN stack which is used to develop this application is ideal for building modern web applications, Socket.io is used for real time, bidirectional communication between the users, while Python libraries such as NLTK can provide useful tools for performing sentiment analysis on texts. The integration of these technologies provides a comprehensive solution for developing a chat application with sentiment analysis.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
