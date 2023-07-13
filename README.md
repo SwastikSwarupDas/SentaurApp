@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- ![screenshot](docs/screenshots/MainChatScreen.png)
+ ![screenshot](docs/screenshots/LoginDialogue.png)
 
 Sentaur is a web-based application that will be used by people interested in using sentiment analysis to determine motivations and purpose of chat participants. The application will be most useful for the deployment of advertisement personalization within applications with real-time analysis of sentiments and user-needs.
 
@@ -30,11 +30,29 @@ Analysis the texts and assigning a sentiment score to each text will help users 
 The MERN stack which is used to develop this application is ideal for building modern web applications, Socket.io is used for real time, bidirectional communication between the users, while Python libraries such as NLTK can provide useful tools for performing sentiment analysis on texts. The integration of these technologies provides a comprehensive solution for developing a chat application with sentiment analysis.
 
 # Screenshots
+## Main Chat Screen 
+The Main Chat screen
+
+![screenshot](docs/screenshots/MainChatScreen.png)
+
 ## Dialogue Box 
 A beautifully semi transparent Dialogue Box
+
 ![screenshot](docs/screenshots/DialogueBox.png)
 ## Floating Window
 Material Design Inspired UI
-![screenshot](docs/screenshots/FloatingWindow.png)
 
+![screenshot](docs/screenshots/FloatingWindow.png)
+## Online Status
+Dynamically changing online status indicator using moon emojis 😄
+
+![screenshot](docs/screenshots/OnlineStatus.png)
+## Resizebility
+All the corners line up perfectly even on resizing the window
+
+![screenshot](docs/screenshots/Resizebility.png)
+## Sentiment Analysis
+A screenshot of chat analysis on jupyter notebook 
+
+![screenshot](docs/screenshots/SentimentAnalysis.jpg)
 
